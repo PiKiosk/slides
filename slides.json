@@ -2,23 +2,23 @@
     "slides": [
         {
             "url": "https://www.nos.nl",
-            "showingTime": 10,
+            "showingTime": 5,
             "loadingTime": 1,
             "expirationTime": 10,
             "cancelingTime": 3
         },
         {
             "url": "https://www.nu.nl",
-            "showingTime": 20,
+            "showingTime": 10,
             "loadingTime": 25,
-            "expirationTime": 60,
+            "expirationTime": 30,
             "cancelingTime": 20
         },
         {
             "url": "https://www.youtube.com",
-            "showingTime": 170,
+            "showingTime": 10,
             "loadingTime": 250,
-            "expirationTime": 1000,
+            "expirationTime": 60,
             "cancelingTime": 30
         }
     ]
