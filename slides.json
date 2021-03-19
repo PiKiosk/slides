@@ -10,7 +10,7 @@
         {
             "url": "https://www.nu.nl",
             "showingTime": 10,
-            "loadingTime": 25,
+            "loadingTime": 20,
             "expirationTime": 30,
             "cancelingTime": 20
         },
