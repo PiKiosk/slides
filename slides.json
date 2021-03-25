@@ -2,18 +2,18 @@
     "autostart": true,
     "slides": [
         {
-            "url": "https://www.nos.nl",
-            "showingTime": 5,
-            "loadingTime": 1,
-            "expirationTime": 10,
-            "cancelingTime": 3
-        },
-        {
             "url": "https://www.sciencedaily.com/news/top/science/",
             "showingTime": 10,
             "loadingTime": 20,
             "expirationTime": 30,
             "cancelingTime": 20
+        },
+        {
+            "url": "https://www.nos.nl",
+            "showingTime": 5,
+            "loadingTime": 1,
+            "expirationTime": 10,
+            "cancelingTime": 3
         },
         {
             "url": "https://www.buienradar.nl/nederland/neerslag/panorama-radar/volledig-scherm",
