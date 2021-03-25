@@ -9,14 +9,14 @@
             "cancelingTime": 3
         },
         {
-            "url": "https://www.nu.nl",
+            "url": "https://www.sciencedaily.com/news/top/science/",
             "showingTime": 10,
             "loadingTime": 20,
             "expirationTime": 30,
             "cancelingTime": 20
         },
         {
-            "url": "https://www.youtube.com",
+            "url": "https://www.buienradar.nl/nederland/neerslag/panorama-radar/volledig-scherm",
             "showingTime": 10,
             "loadingTime": 250,
             "expirationTime": 60,
