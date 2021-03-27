@@ -3,23 +3,30 @@
     "slides": [
         {
             "url": "https://www.sciencedaily.com/news/top/science/",
-            "showingTime": 10,
-            "loadingTime": 20,
-            "expirationTime": 30,
-            "cancelingTime": 20
+            "showingTime": 5,
+            "loadingTime": 3,
+            "expirationTime": 60,
+            "cancelingTime": 3
         },
         {
             "url": "https://www.nos.nl",
             "showingTime": 5,
-            "loadingTime": 1,
-            "expirationTime": 10,
+            "loadingTime": 3,
+            "expirationTime": 60,
             "cancelingTime": 3
         },
         {
             "url": "https://www.buienradar.nl/nederland/neerslag/panorama-radar/volledig-scherm",
-            "showingTime": 10,
-            "loadingTime": 250,
+            "showingTime": 5,
+            "loadingTime": 10,
             "expirationTime": 60,
+            "cancelingTime": 30
+        },
+        {
+            "url": "https://docs.google.com/presentation/d/e/2PACX-1vTZ4y330CyXbM8q-seE94uZwhhKk-fsaTGe2RxhzptQ99jPTj0PAyHE8j9_B8IVfr0E2o7TAXP2mQu2/pub?start=true&loop=false&delayms=3000",
+            "showingTime": 25,
+            "loadingTime": 10,
+            "expirationTime": 3600,
             "cancelingTime": 30
         }
     ]
