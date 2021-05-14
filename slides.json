@@ -9,7 +9,14 @@
             "cancelingTime": 3
         },
         {
-            "url": "https://www.nos.nl",
+            "url": "https://teletekst-data.nos.nl/webplus?p=502-1",
+            "showingTime": 5,
+            "loadingTime": 3,
+            "expirationTime": 60,
+            "cancelingTime": 3
+        },
+        {
+            "url": "https://teletekst-data.nos.nl/webplus?p=502-2",
             "showingTime": 5,
             "loadingTime": 3,
             "expirationTime": 60,
